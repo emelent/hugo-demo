@@ -4,5 +4,4 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
-- content/index.md
 - content/sturf.md
