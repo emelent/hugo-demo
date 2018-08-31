@@ -1,7 +1,6 @@
 ---
 title: First Post
 date: 2018-08-31 08:00:13 +0000
-draft: true
 
 ---
 # The beginning of the blogs bruh
