@@ -4,4 +4,5 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
+- content/post/crayon.md
 - content/sturf.md
