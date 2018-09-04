@@ -4,5 +4,6 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
+- content/post/hih.md
 - content/post/crayon.md
 - content/sturf.md
