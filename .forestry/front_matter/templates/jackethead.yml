@@ -1,10 +1,24 @@
 ---
 label: jackethead
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: date
+  type: datetime
+  label: DATE
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - content/post/wazzurp.md
-- content/post/hih.md
-- content/post/crayon.md
-- content/post/sheesh-bruh.md
 - content/sturf.md
+- content/post/sheesh-bruh.md
+- content/post/crayon.md
+- content/post/hih.md
